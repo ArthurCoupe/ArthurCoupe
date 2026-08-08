@@ -159,7 +159,7 @@ Never stop building 🔴
 <img src="https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="arthurcoupe2007@gmail.com">
+<a href="mailto:arthurcoupe2007@gmail.com">
 <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
