@@ -40,7 +40,7 @@ const Arthur = {
 
   focus: "SaaS • CRM • Sistemas de Gestão",
 
-  location: "Brasil 🇧🇷",
+  location: "Brasília, DF - Brasil 🇧🇷",
 
   stack: {
     frontend: [
@@ -66,8 +66,8 @@ const Arthur = {
     ],
 
     ai: [
-      "Ollama (LLM local)",
-      "NLP automation",
+      "Ollama",
+      "Gemini",
       "Claude Code"
     ]
   },
@@ -77,7 +77,6 @@ const Arthur = {
     "GitHub",
     "Docker",
     "VS Code",
-    "Figma"
   ],
 
   passion:
@@ -106,7 +105,6 @@ const Arthur = {
 | 📈 **CRM** | CRM completo: funil de vendas, pipeline, contatos, follow-up e métricas de conversão | React · FastAPI · PostgreSQL |
 | 📦 **Gestor de Estoque** | Controle de estoque com JWT, RBAC, auditoria, alertas de ruptura e comandos em linguagem natural via LLM local | FastAPI · React · MySQL · Ollama |
 | 🏢 **Sistemas de Gestão** | ERPs sob medida: cadastro, permissões, relatórios e dashboards de KPI | Python · React · SQL |
-| 🎓 **Projeto Integrador** | Processamento e análise de dataset em C — algoritmos e estruturas de dados | C |
 
 ---
 
@@ -177,11 +175,11 @@ Never stop building 🔴
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=EF4444"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/arthurcoupeg">
 <img src="https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jvas2002@gmail.com">
+<a href="mailto:arthurcoupe2007@gmail.com">
 <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
