@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0a0a,50:7f1d1d,100:ef4444&text=ARTHUR%20COUPE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0a0a,50:7f1d1d,100:ef4444&text=ARTHUR%20COUPÊ&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=EF4444&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;PYTHON+%7C+FASTAPI+%7C+REACT;SAAS+%7C+CRM+%7C+SISTEMAS+DE+GESTAO;AI+AUTOMATION+%7C+SOFTWARE+ENGINEERING"/>
 
@@ -157,10 +157,6 @@ Never stop building 🔴
 
 <a href="https://www.linkedin.com/in/arthurcoupeg/">
 <img src="https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:arthurcoupe2007@gmail.com">
-<img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
