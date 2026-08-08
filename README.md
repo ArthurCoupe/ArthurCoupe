@@ -152,11 +152,11 @@ const arthur: Engineer = {
 <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=EF4444"/>
 </a>
 
-<a href="https://linkedin.com/in/SEU-USUARIO">
+<a href="https://linkedin.com/in/arthurcoupeg">
 <img src="https://img.shields.io/badge/LinkedIn-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU-EMAIL@dominio.com">
+<a href="mailto:arthurcoupe2007@gmail.com">
 <img src="https://img.shields.io/badge/Email-7F1D1D?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
