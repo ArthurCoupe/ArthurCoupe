@@ -147,26 +147,6 @@ Never stop building 🔴
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArthurCoupe&theme=darkhub&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ArthurCoupe/ArthurCoupe/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 ## 🌎 Connect With Me
 
 <div align="center">
@@ -175,11 +155,11 @@ Never stop building 🔴
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=EF4444"/>
 </a>
 
-<a href="www.linkedin.com/in/arthurcoupeg">
+<a href="https://www.linkedin.com/in/arthurcoupeg/">
 <img src="https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:arthurcoupe2007@gmail.com">
+<a href="arthurcoupe2007@gmail.com">
 <img src="https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
