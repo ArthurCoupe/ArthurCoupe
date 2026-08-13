@@ -44,29 +44,33 @@ const Arthur = {
 
   stack: {
     frontend: [
-      "React",
-      "TypeScript",
       "JavaScript",
+      "TypeScript",
       "TailwindCSS",
+      "React",
+      "Angular",
       "Vite"
     ],
 
     backend: [
       "Python",
       "FastAPI",
+      "Next.js",
+      "Nest.js",
       "Node.js",
-      "C"
     ],
 
     database: [
       "MySQL",
       "PostgreSQL",
       "SQLite",
+      "MongoDB",
+      "Prisma",
       "Supabase"
     ],
 
     ai: [
-      "Ollama",
+      "Codex",
       "Gemini",
       "Claude Code"
     ]
@@ -124,26 +128,6 @@ const Arthur = {
 STATUS:
 Never stop building 🔴
 ```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurCoupe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCoupe&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ArthurCoupe&hide_border=true&background=0D1117&stroke=EF4444&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E"/>
-
-</div>
 
 ---
 
