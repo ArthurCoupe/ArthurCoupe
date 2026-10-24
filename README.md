@@ -29,7 +29,7 @@ Quase tudo em repositórios privados de clientes. O gráfico de contribuições 
 
 ### Como trabalho com IA
 
-Desenvolvo com agentes de IA, num harness que eu mesmo construí e instalo em cada projeto:
+Desenvolvo com agentes de IA, num harness que eu mesmo construí e instalo em cada projeto ([versão pública](https://github.com/ArthurCoupe/ai-agents-harness)):
 
 - 24 agentes especializados (banco, backend, frontend, segurança, revisor adversarial, entre outros)
 - hooks de limite com 142 casos de teste, que barram ação perigosa antes de ela acontecer
@@ -49,6 +49,8 @@ Row Level Security com FORCE · MFA (TOTP) para dado financeiro · CSP com nonce
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,postgres,supabase,vercel,vite,tailwind,py,fastapi,mysql,docker,githubactions,cloudflare,git&perline=8">
 </p>
 
-### Projeto público
+### Projetos públicos
+
+**[ai-agents-harness](https://github.com/ArthurCoupe/ai-agents-harness)**: harness de engenharia para agentes de IA, com 24 agentes especialistas, hooks de limite com teste próprio, portões de verificação por perfil de projeto e revisão em duas passadas. Node puro, sem dependências, MIT.
 
 **[Gestor de Estoque](https://github.com/ArthurCoupe/GestorDeEstoque)**: API em FastAPI e SPA em React com JWT, RBAC, histórico auditável, previsão de ruptura e comandos em linguagem natural com LLM local (Ollama).
