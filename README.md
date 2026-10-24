@@ -3,7 +3,7 @@
 <p align="center">
 Engenheiro de software full stack · CTO na <b>Next Business</b> · Brasília, DF<br>
 Construo sistemas de gestão que rodam em produção todos os dias, com agentes de IA no fluxo de desenvolvimento e sem abrir mão de teste, revisão e segurança.<br>
-<sub>Full stack software engineer and CTO at Next Business. I ship production management systems with AI agents (Claude Code), with tests, review and security built in.</sub>
+<sub>Full stack software engineer and CTO at Next Business. I ship production management systems with AI agents, with tests, review and security built in.</sub>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ Construo sistemas de gestão que rodam em produção todos os dias, com agentes 
 
 ### Em números (julho a outubro de 2026)
 
-| 3 sistemas em produção | 4.000+ commits | 800+ pull requests mergeados | 400+ migrations PostgreSQL |
+| 4+ anos de experiência | 4.000+ commits | 800+ pull requests mergeados | 400+ migrations PostgreSQL |
 |:---:|:---:|:---:|:---:|
 
 Quase tudo em repositórios privados de clientes. O gráfico de contribuições abaixo conta esse trabalho; o código fica com quem é dono dele.
@@ -24,12 +24,12 @@ Quase tudo em repositórios privados de clientes. O gráfico de contribuições 
 
 - **ERP para agroindústria** (produção rural e distribuição de alimentos): jornada do lote, inventário, DRE gerencial com rateios, regime de caixa e competência, painéis executivos e ETL a partir do ERP legado. Em uso diário pela gestão. `React` `Node.js` `PostgreSQL` `Supabase`
 - **CRM da Next Business**: funil comercial, contratos, financeiro com MRR e TCV separados, fechamento mensal, captação do site, avisos por e-mail e assistente de IA. Em produção desde setembro de 2026. `TanStack Start` `Supabase` `Vercel`
-- **CRM sob medida para cliente**: primeira versão em produção uma semana depois do contrato, com captação por landing page, atribuição de campanha, papéis de acesso e IA com teto de gasto. `TypeScript` `Claude API`
+- **CRM sob medida para cliente**: primeira versão em produção uma semana depois do contrato, com captação por landing page, atribuição de campanha, papéis de acesso e IA com teto de gasto. `TypeScript` `Supabase`
 - **SaaS jurídico** (em construção): captura de intimações (DJEN) e movimentações (DataJud), leitura por IA com citação do trecho e revisão obrigatória do advogado. Multi-tenant.
 
 ### Como trabalho com IA
 
-Uso o Claude Code com um harness que eu mesmo construí e instalo em cada projeto. A versão pública está em **[claude-code-harness](https://github.com/ArthurCoupe/claude-code-harness)**:
+Desenvolvo com agentes de IA, num harness que eu mesmo construí e instalo em cada projeto:
 
 - 24 agentes especializados (banco, backend, frontend, segurança, revisor adversarial, entre outros)
 - hooks de limite com 142 casos de teste, que barram ação perigosa antes de ela acontecer
@@ -49,8 +49,6 @@ Row Level Security com FORCE · MFA (TOTP) para dado financeiro · CSP com nonce
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,postgres,supabase,vercel,vite,tailwind,py,fastapi,mysql,docker,githubactions,cloudflare,git&perline=8">
 </p>
 
-### Projetos públicos
-
-**[claude-code-harness](https://github.com/ArthurCoupe/claude-code-harness)**: o harness acima, com os agentes, os hooks e seus testes, os portões por perfil e o instalador.
+### Projeto público
 
 **[Gestor de Estoque](https://github.com/ArthurCoupe/GestorDeEstoque)**: API em FastAPI e SPA em React com JWT, RBAC, histórico auditável, previsão de ruptura e comandos em linguagem natural com LLM local (Ollama).
