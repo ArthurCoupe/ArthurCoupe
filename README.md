@@ -52,5 +52,3 @@ Row Level Security com FORCE · MFA (TOTP) para dado financeiro · CSP com nonce
 ### Projetos públicos
 
 **[ai-agents-harness](https://github.com/ArthurCoupe/ai-agents-harness)**: harness de engenharia para agentes de IA, com 24 agentes especialistas, hooks de limite com teste próprio, portões de verificação por perfil de projeto e revisão em duas passadas. Node puro, sem dependências, MIT.
-
-**[Gestor de Estoque](https://github.com/ArthurCoupe/GestorDeEstoque)**: API em FastAPI e SPA em React com JWT, RBAC, histórico auditável, previsão de ruptura e comandos em linguagem natural com LLM local (Ollama).
