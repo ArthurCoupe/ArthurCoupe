@@ -29,7 +29,7 @@ Quase tudo em repositórios privados de clientes. O gráfico de contribuições 
 
 ### Como trabalho com IA
 
-Uso o Claude Code com um harness que eu mesmo construí e instalo em cada projeto:
+Uso o Claude Code com um harness que eu mesmo construí e instalo em cada projeto. A versão pública está em **[claude-code-harness](https://github.com/ArthurCoupe/claude-code-harness)**:
 
 - 24 agentes especializados (banco, backend, frontend, segurança, revisor adversarial, entre outros)
 - hooks de limite com 142 casos de teste, que barram ação perigosa antes de ela acontecer
@@ -49,6 +49,8 @@ Row Level Security com FORCE · MFA (TOTP) para dado financeiro · CSP com nonce
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,postgres,supabase,vercel,vite,tailwind,py,fastapi,mysql,docker,githubactions,cloudflare,git&perline=8">
 </p>
 
-### Projeto público
+### Projetos públicos
+
+**[claude-code-harness](https://github.com/ArthurCoupe/claude-code-harness)**: o harness acima, com os agentes, os hooks e seus testes, os portões por perfil e o instalador.
 
 **[Gestor de Estoque](https://github.com/ArthurCoupe/GestorDeEstoque)**: API em FastAPI e SPA em React com JWT, RBAC, histórico auditável, previsão de ruptura e comandos em linguagem natural com LLM local (Ollama).
