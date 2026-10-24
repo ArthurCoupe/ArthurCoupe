@@ -1,158 +1,54 @@
-<div align="center">
+<h1 align="center">Arthur Coupê</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0a0a,50:7f1d1d,100:ef4444&text=ARTHUR%20COUPÊ&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<p align="center">
+Engenheiro de software full stack · CTO na <b>Next Business</b> · Brasília, DF<br>
+Construo sistemas de gestão que rodam em produção todos os dias, com agentes de IA no fluxo de desenvolvimento e sem abrir mão de teste, revisão e segurança.<br>
+<sub>Full stack software engineer and CTO at Next Business. I ship production management systems with AI agents (Claude Code), with tests, review and security built in.</sub>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=EF4444&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;PYTHON+%7C+FASTAPI+%7C+REACT;SAAS+%7C+CRM+%7C+SISTEMAS+DE+GESTAO;AI+AUTOMATION+%7C+SOFTWARE+ENGINEERING"/>
-
-</div>
-
----
-
-## 🤖 CORE SYSTEM
-
-```bash
-╭────────────────────────────╮
-│    ARTHUR SYSTEM v2.0      │
-╰────────────────────────────╯
-
-Initializing system...
-
-████████████████████ 100%
-
-✔ Developer detected
-✔ Business logic loaded
-✔ AI modules activated
-✔ SaaS engine online
-
-STATUS: ONLINE 🔴
-```
+<p align="center">
+<a href="https://www.linkedin.com/in/arthurcoupeg/"><img src="https://img.shields.io/badge/LinkedIn-arthurcoupeg-C8102E?style=flat-square&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/e--mail-arthurcoupedev%40gmail.com-C8102E?style=flat-square&logo=gmail&logoColor=white">
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### Em números (julho a outubro de 2026)
 
-```javascript
-const Arthur = {
+| 3 sistemas em produção | 4.000+ commits | 800+ pull requests mergeados | 400+ migrations PostgreSQL |
+|:---:|:---:|:---:|:---:|
 
-  name: "Arthur Coupe",
+Quase tudo em repositórios privados de clientes. O gráfico de contribuições abaixo conta esse trabalho; o código fica com quem é dono dele.
 
-  role: "Full Stack Developer",
+### O que construí
 
-  focus: "SaaS • CRM • Sistemas de Gestão",
+- **ERP para agroindústria** (produção rural e distribuição de alimentos): jornada do lote, inventário, DRE gerencial com rateios, regime de caixa e competência, painéis executivos e ETL a partir do ERP legado. Em uso diário pela gestão. `React` `Node.js` `PostgreSQL` `Supabase`
+- **CRM da Next Business**: funil comercial, contratos, financeiro com MRR e TCV separados, fechamento mensal, captação do site, avisos por e-mail e assistente de IA. Em produção desde setembro de 2026. `TanStack Start` `Supabase` `Vercel`
+- **CRM sob medida para cliente**: primeira versão em produção uma semana depois do contrato, com captação por landing page, atribuição de campanha, papéis de acesso e IA com teto de gasto. `TypeScript` `Claude API`
+- **SaaS jurídico** (em construção): captura de intimações (DJEN) e movimentações (DataJud), leitura por IA com citação do trecho e revisão obrigatória do advogado. Multi-tenant.
 
-  location: "Brasília, DF - Brasil 🇧🇷",
+### Como trabalho com IA
 
-  stack: {
-    frontend: [
-      "JavaScript",
-      "TypeScript",
-      "TailwindCSS",
-      "React",
-      "Angular",
-      "Vite"
-    ],
+Uso o Claude Code com um harness que eu mesmo construí e instalo em cada projeto:
 
-    backend: [
-      "Python",
-      "FastAPI",
-      "Next.js",
-      "Nest.js",
-      "Node.js",
-    ],
+- 24 agentes especializados (banco, backend, frontend, segurança, revisor adversarial, entre outros)
+- hooks de limite com 142 casos de teste, que barram ação perigosa antes de ela acontecer
+- portões de qualidade por perfil de projeto (site, CRM, SaaS, app), rodados antes de cada PR
+- revisão em duas passadas, em contexto isolado: critério de pronto contra teste, depois defeito fora dos critérios
+- memória de longo prazo num vault (Obsidian + git) com decisões, lições e estado de cada projeto
 
-    database: [
-      "MySQL",
-      "PostgreSQL",
-      "SQLite",
-      "MongoDB",
-      "Prisma",
-      "Supabase"
-    ],
+O agente não decide sozinho o que vai para produção: merge, migration e mudança de segurança passam por revisão humana com prova escrita.
 
-    ai: [
-      "Codex",
-      "Gemini",
-      "Claude Code"
-    ]
-  },
+### Segurança por padrão
 
-  tools: [
-    "Git",
-    "GitHub",
-    "Docker",
-    "VS Code",
-  ],
+Row Level Security com FORCE · MFA (TOTP) para dado financeiro · CSP com nonce · testes de IDOR no CI · varredura de segredos com gitleaks · IA do produto só sugere, nunca executa ação externa
 
-  passion:
-  "Transformar processos de negócio em software 🔴"
+### Stack
 
-}
-```
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,postgres,supabase,vercel,vite,tailwind,py,fastapi,mysql,docker,githubactions,cloudflare,git&perline=8">
+</p>
 
----
+### Projeto público
 
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,tailwind,nodejs,c,mysql,postgres,supabase,docker,git,github,vscode,figma&perline=8"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| 🚀 Projeto | 💡 Descrição | 🧠 Stack |
-|---|---|---|
-| 🍄 **Mush SaaS** | Plataforma SaaS de gestão de cultivo de cogumelos — ciclos, lotes, produtividade e custos | React · TypeScript · Supabase |
-| 📈 **CRM** | CRM completo: funil de vendas, pipeline, contatos, follow-up e métricas de conversão | React · FastAPI · PostgreSQL |
-| 📦 **Gestor de Estoque** | Controle de estoque com JWT, RBAC, auditoria, alertas de ruptura e comandos em linguagem natural via LLM local | FastAPI · React · MySQL · Ollama |
-| 🏢 **Sistemas de Gestão** | ERPs sob medida: cadastro, permissões, relatórios e dashboards de KPI | Python · React · SQL |
-
----
-
-## 🧠 Current Mission
-
-```bash
-> Loading objectives...
-
-[██████████] SaaS Development
-
-[█████████░] Backend & APIs
-
-[████████░░] IA aplicada a negócios
-
-[███████░░░] Arquitetura de Software
-
-STATUS:
-Never stop building 🔴
-```
-
----
-
-## 🌎 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ArthurCoupe">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=EF4444"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arthurcoupeg/">
-<img src="https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔴 "Código é meio. Resolver problema de negócio é o fim."
-
-<img src="https://komarev.com/ghpvc/?username=ArthurCoupe&style=for-the-badge&color=EF4444"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0a0a0a,50:7f1d1d,100:ef4444"/>
+**[Gestor de Estoque](https://github.com/ArthurCoupe/GestorDeEstoque)**: API em FastAPI e SPA em React com JWT, RBAC, histórico auditável, previsão de ruptura e comandos em linguagem natural com LLM local (Ollama).
