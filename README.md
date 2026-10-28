@@ -51,4 +51,8 @@ Row Level Security com FORCE · MFA (TOTP) para dado financeiro · CSP com nonce
 
 ### Projetos públicos
 
-**[ai-agents-harness](https://github.com/ArthurCoupe/ai-agents-harness)**: harness de engenharia para agentes de IA, com 24 agentes especialistas, hooks de limite com teste próprio, portões de verificação por perfil de projeto e revisão em duas passadas. Node puro, sem dependências, MIT.
+**[ai-agents-harness](https://github.com/ArthurCoupe/ai-agents-harness)**: Harness de engenharia para agentes de IA, com 24 agentes especialistas, hooks de limite com teste próprio, portões de verificação por perfil de projeto e revisão em duas passadas. Node puro, sem dependências, MIT.
+
+**[CRMNextDemo](https://github.com/ArthurCoupe/CRMNextDemo)**: Demonstração com dados fictícios do CRM da Next Business: funil, contratos, financeiro com MRR e TCV, onboarding e assistente de IA.
+
+**[GestaoAgro](https://github.com/ArthurCoupe/GestaoAgro)**: Demonstração com dados fictícios de um ERP para agroindústria: DRE gerencial, caixa, orçamento, ciclo produtivo do lote e contaminação.
