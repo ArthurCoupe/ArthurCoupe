@@ -43,6 +43,10 @@ O agente não decide sozinho o que vai para produção: merge, migration e mudan
 
 Row Level Security com FORCE · MFA (TOTP) para dado financeiro · CSP com nonce · testes de IDOR no CI · varredura de segredos com gitleaks · IA do produto só sugere, nunca executa ação externa
 
+### Cursos (2026)
+
+Anthropic, Claude Academy: Building with the Claude API, Claude Platform 101, Introduction to Model Context Protocol, Model Context Protocol: Advanced topics, AI Fluency for builders e Building effective human-agent teams · Linux Foundation: Developing Secure Software (LFD121) · Hugging Face: Agents Course · [todos no LinkedIn](https://www.linkedin.com/in/arthurcoupeg/details/certifications/)
+
 ### Stack
 
 <p>
